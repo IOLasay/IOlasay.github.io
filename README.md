@@ -24,3 +24,18 @@ Got7 is a South Korean boy band formed by JYP Entertainment. The group is compos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrdk3IGcau8?si=aUIlOORNRWgGLYMp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Mamamoo
+
+Mamamoo is a South Korean girl group formed and managed by Rainbow Bridge World. The group is composed of four members: Solar, Moonbyul, Wheein, and Hwasa. Known for their strong live vocals, harmonies, and writing much of their material, they are recognized as one of the premier girl groups in K-pop. Here is one of their famous song from 2019. 
+
+![Mamamoo](https://lh3.googleusercontent.com/9grRgmK5402nUt3KxpKDl-mvjyhah4vrENxXVaOo47Op90ywEafvpZhR4r5Q40BnpheND8HIIAlXJGymSywS3Q_riXH5DZWZRbQ=w1200-h630-rj-pp-e365)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhTeiaCezwM?si=hMd05Rg5NHrPk9kR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Ikon
+
+iKon, stylized as iKON, is a South Korean boy band formed in 2015 by YG Entertainment. The lineup consists of six members: Jay, Song, Bobby, DK, Ju-ne and Chan. Originally a seven-piece band, leader B.I departed from the group in June 2019. Here is one of their song from 2018.
+
+![Ikon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NBSuzcZmDPxm3dSwJYmqGTxWEKxgwtTkDw&usqp=CAU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vecSVX1QYbQ?si=DYh4vwHifHnnfJIT&amp;start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
